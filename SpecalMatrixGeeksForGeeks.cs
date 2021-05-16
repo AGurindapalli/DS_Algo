@@ -1,4 +1,14 @@
-#https://practice.geeksforgeeks.org/problems/special-matrix4201/1
+// https://practice.geeksforgeeks.org/problems/special-matrix4201/1
+//Input
+/* t = 1; r = 3 ; c= 3 ; k = 1; i=2 ; j= 0 */
+/*
+1
+3
+3
+1
+2
+0
+*/
 using System;
 using Utils.Lib;
 
